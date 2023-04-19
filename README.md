@@ -1,3 +1,3 @@
 # Homestart-landing-page
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/vitejs-vite-3xmvt8)
+A landing page inspired by "coding in public" made with tailwindcss and vite
